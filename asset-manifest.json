@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/sandeepbidlagit/react-app/static/css/main.e9f21313.css",
-    "main.js": "/sandeepbidlagit/react-app/static/js/main.ab5de5f1.js",
-    "static/js/787.c64a46ba.chunk.js": "/sandeepbidlagit/react-app/static/js/787.c64a46ba.chunk.js",
-    "static/media/man-3.jpg": "/sandeepbidlagit/react-app/static/media/man-3.24a660411fdcc7390d18.jpg",
-    "static/media/Sandeep_Resume.pdf": "/sandeepbidlagit/react-app/static/media/Sandeep_Resume.aa08d8f6efa779064775.pdf",
-    "static/media/content_img_big.jpg": "/sandeepbidlagit/react-app/static/media/content_img_big.e7c4501f5c64a015dff5.jpg",
-    "static/media/seo_img5.jpg": "/sandeepbidlagit/react-app/static/media/seo_img5.6d9f731e577f476f4c8d.jpg",
-    "static/media/seo_img6.jpg": "/sandeepbidlagit/react-app/static/media/seo_img6.5f2566e1508584d6d193.jpg",
-    "static/media/seo_img4.jpg": "/sandeepbidlagit/react-app/static/media/seo_img4.756843d57adbc5fcb109.jpg",
-    "static/media/seo_img3.jpg": "/sandeepbidlagit/react-app/static/media/seo_img3.88b930c73fb420038686.jpg",
-    "static/media/seo_img2.jpg": "/sandeepbidlagit/react-app/static/media/seo_img2.a4ee804cb3866e8dc862.jpg",
-    "static/media/seo_img1.jpg": "/sandeepbidlagit/react-app/static/media/seo_img1.1120b998055fc31641d9.jpg",
-    "index.html": "/sandeepbidlagit/react-app/index.html",
-    "main.e9f21313.css.map": "/sandeepbidlagit/react-app/static/css/main.e9f21313.css.map",
-    "main.ab5de5f1.js.map": "/sandeepbidlagit/react-app/static/js/main.ab5de5f1.js.map",
-    "787.c64a46ba.chunk.js.map": "/sandeepbidlagit/react-app/static/js/787.c64a46ba.chunk.js.map"
+    "main.css": "/react-app/static/css/main.e9f21313.css",
+    "main.js": "/react-app/static/js/main.3e4f33d7.js",
+    "static/js/787.c64a46ba.chunk.js": "/react-app/static/js/787.c64a46ba.chunk.js",
+    "static/media/man-3.jpg": "/react-app/static/media/man-3.24a660411fdcc7390d18.jpg",
+    "static/media/Sandeep_Resume.pdf": "/react-app/static/media/Sandeep_Resume.aa08d8f6efa779064775.pdf",
+    "static/media/content_img_big.jpg": "/react-app/static/media/content_img_big.e7c4501f5c64a015dff5.jpg",
+    "static/media/seo_img5.jpg": "/react-app/static/media/seo_img5.6d9f731e577f476f4c8d.jpg",
+    "static/media/seo_img6.jpg": "/react-app/static/media/seo_img6.5f2566e1508584d6d193.jpg",
+    "static/media/seo_img4.jpg": "/react-app/static/media/seo_img4.756843d57adbc5fcb109.jpg",
+    "static/media/seo_img3.jpg": "/react-app/static/media/seo_img3.88b930c73fb420038686.jpg",
+    "static/media/seo_img2.jpg": "/react-app/static/media/seo_img2.a4ee804cb3866e8dc862.jpg",
+    "static/media/seo_img1.jpg": "/react-app/static/media/seo_img1.1120b998055fc31641d9.jpg",
+    "index.html": "/react-app/index.html",
+    "main.e9f21313.css.map": "/react-app/static/css/main.e9f21313.css.map",
+    "main.3e4f33d7.js.map": "/react-app/static/js/main.3e4f33d7.js.map",
+    "787.c64a46ba.chunk.js.map": "/react-app/static/js/787.c64a46ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f21313.css",
-    "static/js/main.ab5de5f1.js"
+    "static/js/main.3e4f33d7.js"
   ]
 }
