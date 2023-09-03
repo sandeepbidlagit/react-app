@@ -1,0 +1,68 @@
+.works {
+  min-height: 100vh;
+  width: 100%;
+  padding: 2rem 0;
+
+  h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 2.188em;
+    padding: 0.5em 0;
+    position: relative;
+    font-weight: normal;
+    color: #1a1919;
+   }
+}
+
+  .works__section {
+    padding: 0.625em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-gap:1.5rem;
+  }
+
+  .cards {
+    position: relative;
+    cursor: pointer;
+    
+    img {
+      height: 100%;
+      width: 100%;
+      border-radius: 0 15% 15% 15%;
+    }
+    button {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: #fff;
+      border: 2px solid #66b4fd;
+      border-radius: 5em;
+      padding: 0.5em 1em;
+      color: #000;
+      font-size: 1em;
+      font-weight: normal;
+      opacity: 0;
+      cursor: pointer;
+
+      &:hover {
+       background-color: #3e93e2;
+       color: #fff; 
+      }
+    }
+
+    &:hover button {
+      opacity: 1;
+      transition: 500ms;
+    }
+
+    &:hover img {
+      opacity: .9;
+    }
+  }
+
+@media (max-width:50em) {
+  .works__section {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  }
+}
